@@ -16,5 +16,5 @@ For each book I will use the following strategy for studying.
 3. Next, I will reread the same chapter, looking for deeper insights, and taking notes on what I find. 
 4. From there, compose my notes writing up a more formal summary of what I learned, and sharing what I learned online. 
 5. As I read the chapter the second time, I will actively look for ways to apply what I am learning. For example, if I am learning about a binary search tree, I will try to build a binary search tree computer program. 
-6. Then, I will repeat that process with the next chapter and continue until I have read every book on my list followinng
+6. Then, I will repeat that process with the next chapter and continue until I have read every book on my list following
 7. After Finishing reading each book following that prior process, I will read through each book again, specifically looking for things I want to include in the book I will be writing, along with pulling from things I have previously written. 
