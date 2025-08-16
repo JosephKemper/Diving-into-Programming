@@ -1,6 +1,6 @@
 # Thinking Like a Programmer: A Comprehensive Guide to Mastery in Programming
 
-## Preface: Embracing the Guiding Principles of Pursuing Mastery
+## Chapter 0 Preface: Embracing the Guiding Principles of Pursuing Mastery
 - Introduce the author's personal journey and motivation for writing the book.
 - Explain the five Guiding Principles (Never step beyond the role of a learner; Strive jealously for failure; Obliterate your comfort zone; Work with ruthless intentionality; Master through teaching) and how they shape the book's approach.
 - Discuss why "thinking like a programmer" is more than syntax—it's about mindset, problem-solving, and long-term architectural vision.
@@ -123,7 +123,7 @@ Culminate in architecture, drawing from Software Architecture: The Hard Parts an
 - AI in programming, quantum computing basics, and ethical considerations.
 - How to stay a lifelong learner in an evolving field.
 
-## Epilogue: Mastering Through Teaching and Reflection
+## Chapter 21 Epilogue: Mastering Through Teaching and Reflection
 - Revisit the Guiding Principles and how they've been woven throughout.
 - Encourage readers to teach others, perhaps by contributing to open-source or writing their own guides.
 - Appendices: Code snippets, exercises solutions, further reading (expanding on the studied books), and a glossary.
