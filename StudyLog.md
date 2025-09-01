@@ -11,3 +11,7 @@ Continued Research and chose title for paper Short-Term Thinking: Software's Dea
 ## Sunday, 31 August, 2025
 
 Took a day off to rest and worship God. 
+
+## Monday, 1 September, 2025
+
+Got the introductory analogy written for my paper Short-Term Thinking: Software's Deadly Sin. 
