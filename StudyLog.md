@@ -15,3 +15,7 @@ Took a day off to rest and worship God.
 ## Monday, 1 September, 2025
 
 Got the introductory analogy written for my paper Short-Term Thinking: Software's Deadly Sin. 
+
+## Tuesday, 2 September, 2025
+
+Finished rough draft of Short-Term Thinking: Software's Deadly Sin. 
