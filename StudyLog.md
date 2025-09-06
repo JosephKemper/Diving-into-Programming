@@ -39,3 +39,7 @@ Integration with modern technologies and practices
 Efficiency, measurable, and sustainability
 Easy adoption
 Likely need to automate the documentation process
+
+## Thursday, 4 September, 2025
+
+Wrote a rough draft for the first two paragraphs for my next article The Programming Excellence Framework. 
