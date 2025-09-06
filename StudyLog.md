@@ -43,3 +43,11 @@ Likely need to automate the documentation process
 ## Thursday, 4 September, 2025
 
 Wrote a rough draft for the first two paragraphs for my next article The Programming Excellence Framework. 
+
+## Friday, 5 September, 2025 
+
+Got theme and first paragraphs written for my next programming article. 
+
+## Saturday, 6 September, 2025
+
+Taking day off. 
