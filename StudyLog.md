@@ -51,3 +51,7 @@ Got theme and first paragraphs written for my next programming article.
 ## Saturday, 6 September, 2025
 
 Taking day off. 
+
+## Sunday, 7 September, 2025
+
+Sabbath
