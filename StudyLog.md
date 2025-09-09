@@ -55,3 +55,7 @@ Taking day off.
 ## Sunday, 7 September, 2025
 
 Sabbath
+
+## Monday, 8 September, 2025
+
+Continued research into article. 
